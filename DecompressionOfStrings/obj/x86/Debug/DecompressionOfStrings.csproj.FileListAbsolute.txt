@@ -1,0 +1,5 @@
+D:\assignment2\DecompressionOfStrings\DecompressionOfStrings\bin\Debug\DecompressionOfStrings.exe
+D:\assignment2\DecompressionOfStrings\DecompressionOfStrings\bin\Debug\DecompressionOfStrings.pdb
+D:\assignment2\DecompressionOfStrings\DecompressionOfStrings\obj\x86\Debug\DecompressionOfStrings.exe
+D:\assignment2\DecompressionOfStrings\DecompressionOfStrings\obj\x86\Debug\DecompressionOfStrings.pdb
+D:\assignment2\DecompressionOfStrings\DecompressionOfStrings\obj\x86\Debug\DecompressionOfStrings.csprojResolveAssemblyReference.cache
